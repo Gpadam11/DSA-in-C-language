@@ -1,0 +1,12 @@
+1. WAP using C to Evaluate the Given Polynomial Equation f(x). Note: Order
+   of polynomial, co-efficient and value of x will be user input.
+2. WAP using function that adds given two polynomials f(x) = h(x) + g(x)
+3. WAP to check whether the given matrix is sparse matrix or not.
+4. WAP to find the transpose of a matrix.
+5. WAP to find determinant of 3×3 Matrix.
+6. WAP to Find Largest Element in an Array using Recursion.
+7. WAP using function to find frequency of occurrence of numbers in an array.
+8. WAP to determine whether the given matrix is a lower triangular or upper
+   triangular or tri-diagonal matrix.
+
+Note: Use dynamic memory allocation technique to execute the given assignments
